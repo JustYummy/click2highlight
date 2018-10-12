@@ -27,5 +27,5 @@ if(countNum > 5){   //change this number to whatever you want.
 
 ## How to use?
 1. Install the Tampermonkey on your web browser on [tampermonkey.net](https://tampermonkey.net)
-2. Open the Dashboard and add a new script.
+2. Open the Dashboard and create a new script.
 3. Copy the code and paste to the new script.
